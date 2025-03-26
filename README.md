@@ -30,9 +30,3 @@ We use **feature engineering, machine learning models, and hyperparameter tuning
 1️⃣ Clone the repository:
 ```bash
 git clone https://github.com/SanjanaLeninBabu/Movie-Rating-Prediction.git
-2️⃣ Install dependencies:
-```bash
-pip install -r requirements.txt
-3️⃣ Run the Jupyter Notebook:
-```bash
-jupyter notebook
