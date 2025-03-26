@@ -29,4 +29,4 @@ We use **feature engineering, machine learning models, and hyperparameter tuning
 ## 🛠️ How to Run the Project?
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/your-username/Movie-Rating-Prediction.git
+git clone https://github.com/SanjanaLeninBabu/Movie-Rating-Prediction.git
